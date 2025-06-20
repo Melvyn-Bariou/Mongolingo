@@ -1,0 +1,993 @@
+{
+  "foot_equipes": [
+    {
+      "_id": "665000000000000000000001",
+      "nom": "France",
+      "groupe": "D",
+      "entraineur": "Didier Deschamps"
+    },
+    {
+      "_id": "665000000000000000000002",
+      "nom": "Brésil",
+      "groupe": "C",
+      "entraineur": "Tite"
+    },
+    {
+      "_id": "665000000000000000000003",
+      "nom": "Allemagne",
+      "groupe": "B",
+      "entraineur": "Hansi Flick"
+    },
+    {
+      "_id": "665000000000000000000004",
+      "nom": "Argentine",
+      "groupe": "A",
+      "entraineur": "Scaloni"
+    },
+    {
+      "_id": "665000000000000000000005",
+      "nom": "Espagne",
+      "groupe": "E",
+      "entraineur": "Luis de la Fuente"
+    },
+    {
+      "_id": "665000000000000000000006",
+      "nom": "Italie",
+      "groupe": "F",
+      "entraineur": "Roberto Mancini"
+    },
+    {
+      "_id": "665000000000000000000007",
+      "nom": "Angleterre",
+      "groupe": "G",
+      "entraineur": "Gareth Southgate"
+    },
+    {
+      "_id": "665000000000000000000008",
+      "nom": "Portugal",
+      "groupe": "H",
+      "entraineur": "Roberto Martinez"
+    },
+    {
+      "_id": "665000000000000000000009",
+      "nom": "Paris Saint-Germain",
+      "ville": "Paris",
+      "stade": "Parc des Princes",
+      "entraineur": "Christophe Galtier",
+      "groupe": "A"
+    },
+    {
+      "_id": "665000000000000000000010",
+      "nom": "Olympique de Marseille",
+      "ville": "Marseille",
+      "stade": "Stade Vélodrome",
+      "entraineur": "Jorge Sampaoli",
+      "groupe": "A"
+    },
+    {
+      "_id": "665000000000000000000011",
+      "nom": "AS Monaco",
+      "ville": "Monaco",
+      "stade": "Stade Louis II",
+      "entraineur": "Philippe Clement",
+      "groupe": "B"
+    },
+    {
+      "_id": "665000000000000000000012",
+      "nom": "Olympique Lyonnais",
+      "ville": "Lyon",
+      "stade": "Groupama Stadium",
+      "entraineur": "Laurent Blanc",
+      "groupe": "B"
+    },
+    {
+      "_id": "665000000000000000000013",
+      "nom": "LOSC Lille",
+      "ville": "Lille",
+      "stade": "Stade Pierre-Mauroy",
+      "entraineur": "Paulo Fonseca",
+      "groupe": "C"
+    },
+    {
+      "_id": "665000000000000000000014",
+      "nom": "Stade Rennais",
+      "ville": "Rennes",
+      "stade": "Roazhon Park",
+      "entraineur": "Bruno Génésio",
+      "groupe": "C"
+    },
+    {
+      "_id": "665000000000000000000015",
+      "nom": "OGC Nice",
+      "ville": "Nice",
+      "stade": "Allianz Riviera",
+      "entraineur": "Francesco Farioli",
+      "groupe": "D"
+    },
+    {
+      "_id": "665000000000000000000016",
+      "nom": "RC Lens",
+      "ville": "Lens",
+      "stade": "Stade Bollaert-Delelis",
+      "entraineur": "Franck Haise",
+      "groupe": "D"
+    },
+    {
+      "_id": "665000000000000000000017",
+      "nom": "Montpellier HSC",
+      "ville": "Montpellier",
+      "stade": "Stade de la Mosson",
+      "entraineur": "Michel Der Zakarian",
+      "groupe": "A"
+    },
+    {
+      "_id": "665000000000000000000018",
+      "nom": "FC Nantes",
+      "ville": "Nantes",
+      "stade": "Stade de la Beaujoire",
+      "entraineur": "Antoine Kombouaré",
+      "groupe": "B"
+    },
+    {
+      "_id": "665000000000000000000019",
+      "nom": "Stade de Reims",
+      "ville": "Reims",
+      "stade": "Stade Auguste-Delaune",
+      "entraineur": "Will Still",
+      "groupe": "C"
+    },
+    {
+      "_id": "665000000000000000000020",
+      "nom": "Angers SCO",
+      "ville": "Angers",
+      "stade": "Stade Raymond-Kopa",
+      "entraineur": "Alexandre Dujeux",
+      "groupe": "D"
+    },
+    {
+      "_id": "665000000000000000000021",
+      "nom": "RC Strasbourg",
+      "ville": "Strasbourg",
+      "stade": "Stade de la Meinau",
+      "entraineur": "Frédéric Antonetti",
+      "groupe": "A"
+    },
+    {
+      "_id": "665000000000000000000022",
+      "nom": "Toulouse FC",
+      "ville": "Toulouse",
+      "stade": "Stade de Toulouse",
+      "entraineur": "Carles Martínez Novell",
+      "groupe": "B"
+    },
+    {
+      "_id": "665000000000000000000023",
+      "nom": "FC Lorient",
+      "ville": "Lorient",
+      "stade": "Stade du Moustoir",
+      "entraineur": "Régis Le Bris",
+      "groupe": "C"
+    }
+  ],
+  "foot_joueurs": [
+    {
+      "_id": "68435d3cbaa11311e2d861e0",
+      "nom": "Mbappé",
+      "prenom": "Kylian",
+      "poste": "attaquant",
+      "age": 25,
+      "equipe_id": "665000000000000000000001"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e1",
+      "nom": "Lloris",
+      "prenom": "Hugo",
+      "poste": "gardien",
+      "age": 36,
+      "equipe_id": "665000000000000000000001"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e2",
+      "nom": "Griezmann",
+      "prenom": "Antoine",
+      "poste": "milieu",
+      "age": 33,
+      "equipe_id": "665000000000000000000001"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e3",
+      "nom": "Varane",
+      "prenom": "Raphaël",
+      "poste": "défenseur",
+      "age": 30,
+      "equipe_id": "665000000000000000000001"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e4",
+      "nom": "Neymar",
+      "prenom": "Jr",
+      "poste": "attaquant",
+      "age": 32,
+      "equipe_id": "665000000000000000000002"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e5",
+      "nom": "Alisson",
+      "prenom": "Becker",
+      "poste": "gardien",
+      "age": 31,
+      "equipe_id": "665000000000000000000002"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e6",
+      "nom": "Casemiro",
+      "prenom": "Carlos",
+      "poste": "milieu",
+      "age": 31,
+      "equipe_id": "665000000000000000000002"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e7",
+      "nom": "Thiago",
+      "prenom": "Silva",
+      "poste": "défenseur",
+      "age": 39,
+      "equipe_id": "665000000000000000000002"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e8",
+      "nom": "Kimmich",
+      "prenom": "Joshua",
+      "poste": "milieu",
+      "age": 29,
+      "equipe_id": "665000000000000000000003"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861e9",
+      "nom": "Neuer",
+      "prenom": "Manuel",
+      "poste": "gardien",
+      "age": 38,
+      "equipe_id": "665000000000000000000003"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ea",
+      "nom": "Müller",
+      "prenom": "Thomas",
+      "poste": "attaquant",
+      "age": 34,
+      "equipe_id": "665000000000000000000003"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861eb",
+      "nom": "Rüdiger",
+      "prenom": "Antonio",
+      "poste": "défenseur",
+      "age": 31,
+      "equipe_id": "665000000000000000000003"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ec",
+      "nom": "Messi",
+      "prenom": "Lionel",
+      "poste": "attaquant",
+      "age": 37,
+      "equipe_id": "665000000000000000000004"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ed",
+      "nom": "Martinez",
+      "prenom": "Emiliano",
+      "poste": "gardien",
+      "age": 32,
+      "equipe_id": "665000000000000000000004"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ee",
+      "nom": "De Paul",
+      "prenom": "Rodrigo",
+      "poste": "milieu",
+      "age": 29,
+      "equipe_id": "665000000000000000000004"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ef",
+      "nom": "Otamendi",
+      "prenom": "Nicolas",
+      "poste": "défenseur",
+      "age": 36,
+      "equipe_id": "665000000000000000000004"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f0",
+      "nom": "Morata",
+      "prenom": "Alvaro",
+      "poste": "attaquant",
+      "age": 31,
+      "equipe_id": "665000000000000000000005"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f1",
+      "nom": "Simon",
+      "prenom": "Unai",
+      "poste": "gardien",
+      "age": 27,
+      "equipe_id": "665000000000000000000005"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f2",
+      "nom": "Pedri",
+      "prenom": "Pedro",
+      "poste": "milieu",
+      "age": 21,
+      "equipe_id": "665000000000000000000005"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f3",
+      "nom": "Laporte",
+      "prenom": "Aymeric",
+      "poste": "défenseur",
+      "age": 30,
+      "equipe_id": "665000000000000000000005"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f4",
+      "nom": "Immobile",
+      "prenom": "Ciro",
+      "poste": "attaquant",
+      "age": 34,
+      "equipe_id": "665000000000000000000006"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f5",
+      "nom": "Donnarumma",
+      "prenom": "Gianluigi",
+      "poste": "gardien",
+      "age": 25,
+      "equipe_id": "665000000000000000000006"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f6",
+      "nom": "Verratti",
+      "prenom": "Marco",
+      "poste": "milieu",
+      "age": 31,
+      "equipe_id": "665000000000000000000006"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f7",
+      "nom": "Bastoni",
+      "prenom": "Alessandro",
+      "poste": "défenseur",
+      "age": 25,
+      "equipe_id": "665000000000000000000006"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f8",
+      "nom": "Kane",
+      "prenom": "Harry",
+      "poste": "attaquant",
+      "age": 31,
+      "equipe_id": "665000000000000000000007"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861f9",
+      "nom": "Pickford",
+      "prenom": "Jordan",
+      "poste": "gardien",
+      "age": 30,
+      "equipe_id": "665000000000000000000007"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861fa",
+      "nom": "Rice",
+      "prenom": "Declan",
+      "poste": "milieu",
+      "age": 25,
+      "equipe_id": "665000000000000000000007"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861fb",
+      "nom": "Stones",
+      "prenom": "John",
+      "poste": "défenseur",
+      "age": 30,
+      "equipe_id": "665000000000000000000007"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861fc",
+      "nom": "Ronaldo",
+      "prenom": "Cristiano",
+      "poste": "attaquant",
+      "age": 39,
+      "equipe_id": "665000000000000000000008"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861fd",
+      "nom": "Costa",
+      "prenom": "Diogo",
+      "poste": "gardien",
+      "age": 25,
+      "equipe_id": "665000000000000000000008"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861fe",
+      "nom": "Fernandes",
+      "prenom": "Bruno",
+      "poste": "milieu",
+      "age": 29,
+      "equipe_id": "665000000000000000000008"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d861ff",
+      "nom": "Dias",
+      "prenom": "Ruben",
+      "poste": "défenseur",
+      "age": 27,
+      "equipe_id": "665000000000000000000008"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86200",
+      "nom": "Messi",
+      "prenom": "Lionel",
+      "poste": "attaquant",
+      "age": 36,
+      "equipe_id": "665000000000000000000009"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86201",
+      "nom": "Neymar",
+      "prenom": "Jr",
+      "poste": "attaquant",
+      "age": 32,
+      "equipe_id": "665000000000000000000009"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86202",
+      "nom": "Donnarumma",
+      "prenom": "Gianluigi",
+      "poste": "gardien",
+      "age": 25,
+      "equipe_id": "665000000000000000000009"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86203",
+      "nom": "Marquinhos",
+      "prenom": "",
+      "poste": "défenseur",
+      "age": 29,
+      "equipe_id": "665000000000000000000009"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86204",
+      "nom": "Payet",
+      "prenom": "Dimitri",
+      "poste": "milieu",
+      "age": 36,
+      "equipe_id": "665000000000000000000010"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86205",
+      "nom": "Lopez",
+      "prenom": "Pau",
+      "poste": "gardien",
+      "age": 39,
+      "equipe_id": "665000000000000000000010"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86206",
+      "nom": "Gerson",
+      "prenom": "",
+      "poste": "milieu",
+      "age": 26,
+      "equipe_id": "665000000000000000000010"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86207",
+      "nom": "Balerdi",
+      "prenom": "Gonzalo",
+      "poste": "défenseur",
+      "age": 24,
+      "equipe_id": "665000000000000000000010"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86208",
+      "nom": "Ben Yedder",
+      "prenom": "Wissam",
+      "poste": "attaquant",
+      "age": 33,
+      "equipe_id": "665000000000000000000011"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86209",
+      "nom": "Volland",
+      "prenom": "Kevin",
+      "poste": "attaquant",
+      "age": 31,
+      "equipe_id": "665000000000000000000011"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620a",
+      "nom": "Nübel",
+      "prenom": "Alexander",
+      "poste": "gardien",
+      "age": 27,
+      "equipe_id": "665000000000000000000011"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620b",
+      "nom": "Disasi",
+      "prenom": "Axel",
+      "poste": "défenseur",
+      "age": 25,
+      "equipe_id": "665000000000000000000011"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620c",
+      "nom": "Lacazette",
+      "prenom": "Alexandre",
+      "poste": "attaquant",
+      "age": 32,
+      "equipe_id": "665000000000000000000012"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620d",
+      "nom": "Depay",
+      "prenom": "Memphis",
+      "poste": "attaquant",
+      "age": 29,
+      "equipe_id": "665000000000000000000012"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620e",
+      "nom": "Lopes",
+      "prenom": "Anthony",
+      "poste": "gardien",
+      "age": 33,
+      "equipe_id": "665000000000000000000012"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8620f",
+      "nom": "Gustavo",
+      "prenom": "Marcelo",
+      "poste": "milieu",
+      "age": 36,
+      "equipe_id": "665000000000000000000012"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86210",
+      "nom": "David",
+      "prenom": "Jonathan",
+      "poste": "attaquant",
+      "age": 27,
+      "equipe_id": "665000000000000000000013"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86211",
+      "nom": "Yazici",
+      "prenom": "Yusuf",
+      "poste": "milieu",
+      "age": 26,
+      "equipe_id": "665000000000000000000013"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86212",
+      "nom": "Jardim",
+      "prenom": "Leonardo",
+      "poste": "gardien",
+      "age": 28,
+      "equipe_id": "665000000000000000000013"
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86213",
+      "nom": "Fonte",
+      "prenom": "José",
+      "poste": "défenseur",
+      "age": 30,
+      "equipe_id": "665000000000000000000013"
+    }
+  ],
+  "foot_matchs": [
+    {
+      "_id": "68435d3cbaa11311e2d86214",
+      "date": "2022-11-20T16:00:00.000Z",
+      "stade": "Lusail Stadium",
+      "equipe1_id": "665000000000000000000001",
+      "equipe2_id": "665000000000000000000002",
+      "score": {
+        "equipe1": 2,
+        "equipe2": 1
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86215",
+      "date": "2022-11-21T19:00:00.000Z",
+      "stade": "Khalifa Stadium",
+      "equipe1_id": "665000000000000000000003",
+      "equipe2_id": "665000000000000000000004",
+      "score": {
+        "equipe1": 1,
+        "equipe2": 3
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86216",
+      "date": "2022-11-22T20:00:00.000Z",
+      "stade": "Stade de France",
+      "equipe1_id": "665000000000000000000005",
+      "equipe2_id": "665000000000000000000006",
+      "score": {
+        "equipe1": 0,
+        "equipe2": 0
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86217",
+      "date": "2022-11-23T18:00:00.000Z",
+      "stade": "Wembley",
+      "equipe1_id": "665000000000000000000007",
+      "equipe2_id": "665000000000000000000008",
+      "score": {
+        "equipe1": 2,
+        "equipe2": 2
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86218",
+      "date": "2022-11-24T21:00:00.000Z",
+      "stade": "Allianz Arena",
+      "equipe1_id": "665000000000000000000003",
+      "equipe2_id": "665000000000000000000001",
+      "score": {
+        "equipe1": 1,
+        "equipe2": 2
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d86219",
+      "date": "2023-10-01T20:00:00.000Z",
+      "stade": "Parc des Princes",
+      "equipe1_id": "665000000000000000000009",
+      "equipe2_id": "665000000000000000000010",
+      "score": {
+        "equipe1": 4,
+        "equipe2": 0
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8621a",
+      "date": "2023-10-02T17:00:00.000Z",
+      "stade": "Stade Vélodrome",
+      "equipe1_id": "665000000000000000000010",
+      "equipe2_id": "665000000000000000000011",
+      "score": {
+        "equipe1": 2,
+        "equipe2": 2
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8621b",
+      "date": "2023-10-03T14:00:00.000Z",
+      "stade": "Stade Louis II",
+      "equipe1_id": "665000000000000000000011",
+      "equipe2_id": "665000000000000000000012",
+      "score": {
+        "equipe1": 3,
+        "equipe2": 1
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8621c",
+      "date": "2023-10-04T16:00:00.000Z",
+      "stade": "Groupama Stadium",
+      "equipe1_id": "665000000000000000000012",
+      "equipe2_id": "665000000000000000000013",
+      "score": {
+        "equipe1": 1,
+        "equipe2": 1
+      }
+    },
+    {
+      "_id": "68435d3cbaa11311e2d8621d",
+      "date": "2023-10-05T20:00:00.000Z",
+      "stade": "Stade Pierre-Mauroy",
+      "equipe1_id": "665000000000000000000013",
+      "equipe2_id": "665000000000000000000009",
+      "score": {
+        "equipe1": 0,
+        "equipe2": 2
+      }
+    }
+  ],
+  "tdf_cyclistes": [
+    {
+      "_id": "68435d79baa11311e2d8621e",
+      "nom": "Pogačar",
+      "prenom": "Tadej",
+      "nationalite": "Slovénie",
+      "equipe_id": "775000000000000000000003"
+    },
+    {
+      "_id": "68435d79baa11311e2d8621f",
+      "nom": "Vingegaard",
+      "prenom": "Jonas",
+      "nationalite": "Danemark",
+      "equipe_id": "775000000000000000000002"
+    },
+    {
+      "_id": "68435d79baa11311e2d86220",
+      "nom": "Thomas",
+      "prenom": "Geraint",
+      "nationalite": "Royaume-Uni",
+      "equipe_id": "775000000000000000000001"
+    },
+    {
+      "_id": "68435d79baa11311e2d86221",
+      "nom": "Alaphilippe",
+      "prenom": "Julian",
+      "nationalite": "France",
+      "equipe_id": "775000000000000000000005"
+    },
+    {
+      "_id": "68435d79baa11311e2d86222",
+      "nom": "Sagan",
+      "prenom": "Peter",
+      "nationalite": "Slovaquie",
+      "equipe_id": "775000000000000000000004"
+    },
+    {
+      "_id": "68435d79baa11311e2d86223",
+      "nom": "Roglič",
+      "prenom": "Primož",
+      "nationalite": "Slovénie",
+      "equipe_id": "775000000000000000000002"
+    },
+    {
+      "_id": "68435d79baa11311e2d86224",
+      "nom": "Bernal",
+      "prenom": "Egan",
+      "nationalite": "Colombie",
+      "equipe_id": "775000000000000000000001"
+    },
+    {
+      "_id": "68435d79baa11311e2d86225",
+      "nom": "Van Aert",
+      "prenom": "Wout",
+      "nationalite": "Belgique",
+      "equipe_id": "775000000000000000000002"
+    },
+    {
+      "_id": "68435d79baa11311e2d86226",
+      "nom": "Hirschi",
+      "prenom": "Marc",
+      "nationalite": "Suisse",
+      "equipe_id": "775000000000000000000003"
+    },
+    {
+      "_id": "68435d79baa11311e2d86227",
+      "nom": "Kuß",
+      "prenom": "Sepp",
+      "nationalite": "Allemagne",
+      "equipe_id": "775000000000000000000002"
+    }
+  ],
+  "tdf_equipes": [
+    {
+      "_id": "775000000000000000000001",
+      "nom": "Ineos Grenadiers",
+      "sponsor": "Ineos"
+    },
+    {
+      "_id": "775000000000000000000002",
+      "nom": "Jumbo-Visma",
+      "sponsor": "Jumbo"
+    },
+    {
+      "_id": "775000000000000000000003",
+      "nom": "UAE Team Emirates",
+      "sponsor": "UAE"
+    },
+    {
+      "_id": "775000000000000000000004",
+      "nom": "Bora-Hansgrohe",
+      "sponsor": "Bora"
+    },
+    {
+      "_id": "775000000000000000000005",
+      "nom": "Deceuninck-QuickStep",
+      "sponsor": "Deceuninck"
+    },
+    {
+      "_id": "775000000000000000000006",
+      "nom": "Movistar Team",
+      "sponsor": "Movistar"
+    },
+    {
+      "_id": "775000000000000000000007",
+      "nom": "Team Bahrain Victorious",
+      "sponsor": "Bahrain"
+    },
+    {
+      "_id": "775000000000000000000008",
+      "nom": "Trek-Segafredo",
+      "sponsor": "Trek"
+    },
+    {
+      "_id": "775000000000000000000009",
+      "nom": "Astana Qazaqstan Team",
+      "sponsor": "Astana"
+    },
+    {
+      "_id": "775000000000000000000010",
+      "nom": "Cofidis",
+      "sponsor": "Cofidis"
+    },
+    {
+      "_id": "775000000000000000000011",
+      "nom": "Groupama-FDJ",
+      "sponsor": "Groupama"
+    },
+    {
+      "_id": "775000000000000000000012",
+      "nom": "Israel-Premier Tech",
+      "sponsor": "Israel"
+    },
+    {
+      "_id": "775000000000000000000013",
+      "nom": "Lotto Dstny",
+      "sponsor": "Lotto"
+    },
+    {
+      "_id": "775000000000000000000014",
+      "nom": "EF Education-EasyPost",
+      "sponsor": "EF Education"
+    },
+    {
+      "_id": "775000000000000000000015",
+      "nom": "Arkéa-Samsic",
+      "sponsor": "Arkéa"
+    }
+  ],
+  "tdf_etapes": [
+    {
+      "_id": "68435d79baa11311e2d86228",
+      "numero": 1,
+      "ville_depart": "Brest",
+      "ville_arrivee": "Landerneau",
+      "distance_km": 197.8
+    },
+    {
+      "_id": "68435d79baa11311e2d86229",
+      "numero": 2,
+      "ville_depart": "Perros-Guirec",
+      "ville_arrivee": "Mûr-de-Bretagne",
+      "distance_km": 183.5
+    },
+    {
+      "_id": "68435d79baa11311e2d8622a",
+      "numero": 3,
+      "ville_depart": "Lorient",
+      "ville_arrivee": "Pontivy",
+      "distance_km": 182.9
+    },
+    {
+      "_id": "68435d79baa11311e2d8622b",
+      "numero": 4,
+      "ville_depart": "Redon",
+      "ville_arrivee": "Fougères",
+      "distance_km": 150.4
+    },
+    {
+      "_id": "68435d79baa11311e2d8622c",
+      "numero": 5,
+      "ville_depart": "Change",
+      "ville_arrivee": "Le Creusot",
+      "distance_km": 175.4
+    },
+    {
+      "_id": "68435d79baa11311e2d8622d",
+      "numero": 6,
+      "ville_depart": "Tournus",
+      "ville_arrivee": "Chalon-sur-Saône",
+      "distance_km": 230.3
+    },
+    {
+      "_id": "68435d79baa11311e2d8622e",
+      "numero": 7,
+      "ville_depart": "Vesoul",
+      "ville_arrivee": "Le Grand-Bornand",
+      "distance_km": 240.7
+    },
+    {
+      "_id": "68435d79baa11311e2d8622f",
+      "numero": 8,
+      "ville_depart": "Albertville",
+      "ville_arrivee": "Valence",
+      "distance_km": 150.8
+    },
+    {
+      "_id": "68435d79baa11311e2d86230",
+      "numero": 9,
+      "ville_depart": "Clermont-Ferrand",
+      "ville_arrivee": "Tulle",
+      "distance_km": 145.1
+    },
+    {
+      "_id": "68435d79baa11311e2d86231",
+      "numero": 10,
+      "ville_depart": "Libourne",
+      "ville_arrivee": "Saint-Émilion",
+      "distance_km": 30.8
+    },
+    {
+      "_id": "68435d79baa11311e2d86232",
+      "numero": 11,
+      "ville_depart": "Saint-Émilion",
+      "ville_arrivee": "Libourne",
+      "distance_km": 162.3
+    },
+    {
+      "_id": "68435d79baa11311e2d86233",
+      "numero": 12,
+      "ville_depart": "Pau",
+      "ville_arrivee": "Laruns",
+      "distance_km": 137.8
+    },
+    {
+      "_id": "68435d79baa11311e2d86234",
+      "numero": 13,
+      "ville_depart": "Saint-Girons",
+      "ville_arrivee": "Foix",
+      "distance_km": 191.7
+    },
+    {
+      "_id": "68435d79baa11311e2d86235",
+      "numero": 14,
+      "ville_depart": "Carcassonne",
+      "ville_arrivee": "Quillan",
+      "distance_km": 183.7
+    },
+    {
+      "_id": "68435d79baa11311e2d86236",
+      "numero": 15,
+      "ville_depart": "Lodeve",
+      "ville_arrivee": "Mont Aigoual",
+      "distance_km": 175.1
+    },
+    {
+      "_id": "68435d79baa11311e2d86237",
+      "numero": 16,
+      "ville_depart": "Grenoble",
+      "ville_arrivee": "Villar-de-Lans",
+      "distance_km": 164.1
+    },
+    {
+      "_id": "68435d79baa11311e2d86238",
+      "numero": 17,
+      "ville_depart": "Digne-les-Bains",
+      "ville_arrivee": "Pra Loup",
+      "distance_km": 165.7
+    },
+    {
+      "_id": "68435d79baa11311e2d86239",
+      "numero": 18,
+      "ville_depart": "Gap",
+      "ville_arrivee": "Barcelonnette",
+      "distance_km": 171.1
+    },
+    {
+      "_id": "68435d79baa11311e2d8623a",
+      "numero": 19,
+      "ville_depart": "Embrun",
+      "ville_arrivee": "Valloire",
+      "distance_km": 208.1
+    },
+    {
+      "_id": "68435d79baa11311e2d8623b",
+      "numero": 20,
+      "ville_depart": "Albertville",
+      "ville_arrivee": "Val Thorens",
+      "distance_km": 59.1
+    }
+  ]
+}
